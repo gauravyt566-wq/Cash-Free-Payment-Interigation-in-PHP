@@ -20,8 +20,8 @@ curl_setopt_array($curl, [
   CURLOPT_HTTPHEADER => [
     "accept: application/json",
     "x-api-version: 2021-05-21",
-    "x-client-id: TEST38543111d2a6ca2d1aa6d42c8c134583",
-    "x-client-secret: TEST287eccb79434698b972be434b6cf19962b202c53"
+    "x-client-id: 1170052b61c54908e97f92f79352500711",
+    "x-client-secret: cfsk_ma_prod_cb02f3c3912ac1ed672692ff54748862_ae628e1e"
   ],
 ]);
 
